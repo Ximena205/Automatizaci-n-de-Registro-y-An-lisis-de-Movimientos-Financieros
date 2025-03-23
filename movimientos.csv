@@ -1,0 +1,5 @@
+FECHA,CONCEPTO,TIPO,MONTO,MONEDA
+2025-03-01,Déposito,Ingreso,15000,UYU
+2025-03-03,Pago proveedor,Egreso,5000,UYU
+2025-03-05,Compra de bonos,Inversión,7000,USD
+2025-03-08,Interes recibido,Ingreso,250,USD
